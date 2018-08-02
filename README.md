@@ -1,2 +1,2 @@
-# Android SQLite helper utils
-Sqlite helper utils for Android apps
+# Android HTTP
+HTTP utils for Android apps
