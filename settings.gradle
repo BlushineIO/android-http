@@ -1,1 +1,4 @@
-include ':android-http'
+include ':android-http', ':android-task'
+
+// Custom git directories
+project(':android-task').projectDir = new File('../../android-task/android-task')
